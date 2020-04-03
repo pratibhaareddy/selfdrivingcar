@@ -1,4 +1,4 @@
-Since the datset is too large to upload the files in github, Please download the dataset from the below link and save it as 'driving_dataset' folder. 
+Since the dataset is too large to upload the files in github, Please download the dataset from the below link and save it as 'driving_dataset' folder. 
 
 https://drive.google.com/file/d/1PZWa6H0i1PCH9zuYcIh5Ouk_p-9Gh58B/view
 
